@@ -10,6 +10,10 @@
 - [Message Route](https://cses.fi/problemset/task/1667) - [Solution](/CSES/Graph/04.%20Message%20Route.py)
 - [Building Teams](https://cses.fi/problemset/task/1668) - [Soltution](/CSES/Graph/05.%20Building%20Teams.py)
 
+### Tree Problems
+
+- [Subordinates](https://cses.fi/problemset/result/15934380/) - [Solution](/CSES/Trees/1.%20Subordinates.py)
+
 ### DP Problems
 
 - [Dice Combinations](https://cses.fi/problemset/task/1633) - [Solution](/CSES/DP/01.%20Dice%20Combinations.py)
